@@ -1,58 +1,49 @@
-<h1 align="center">Hi 👋, I'm Vedansh Shah</h1>
-<h3 align="center">Mechatronics Engineer | Robotics & Embedded Systems | Texas A&M University</h3>
+<h1 align="center">Vedansh Shah</h1>
+<p align="center"><i>Mechatronics engineer who builds things that fly, roll, and occasionally solve themselves in under 10 seconds.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=500000&center=true&vCenter=true&width=600&lines=B.S.+Mechatronics+Engineering%2C+Texas+A%26M;M.S.+Engineering+Technology+%E2%80%9928;Building+drones%2C+robots%2C+and+embedded+systems;Aerospace+%26+Defense+bound" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=500000&center=true&vCenter=true&width=650&lines=B.S.+Mechatronics+Engineering%2C+Texas+A%26M;Built+a+lunar+recon+drone+for+my+capstone;VEX+U+Worlds+competitor;Currently+chasing+aerospace+%26+defense" alt="Typing SVG" />
 </p>
-
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-### 🚀 About Me
-
-- 🎓 B.S. **Mechatronics Engineering**, Texas A&M University (May 2026) — Embedded Systems Integration minor
-- 🔭 Currently pursuing an **M.S. in Engineering Technology (MSET)** at TAMU, Class of 2028
-- 👨‍🏫 Graduate Assistant Teaching (GAT) for **MXET 300**
-- 🛰️ Recently led software/CAD on **FlowX**, a cold-gas thruster reconnaissance drone system for lunar environments
-- 🤖 Undergrad research in TAMU's SynBio Automation Lab — ROS2/MoveIt2 pipeline on a UR3e arm for automated liquid handling
-- 🏆 VEX U Robotics — 1st place Texas State, 12th place Worlds
-- 🌱 Currently sharpening classical **control theory, PID, and C/C++**
-- 🎯 Targeting Summer 2027 aerospace/defense internships (SpaceX, Lockheed, Boeing, Northrop, Raytheon, GE Aerospace)
-- ⚡ Also into 3D printing (FDM, Bambu Lab), speedcubing, and animatronics
-- 📫 Reach me: **vedansh.shah@gmail.com**
-
-<br clear="right"/>
-
-### 🛠️ Featured Project — FlowX
-
-A lunar reconnaissance drone system built for my ESET 419/420 capstone: gyroscopic 3-DOF test rig, propeller drone, and cold-gas thruster drone, running a custom Python flight stack on Raspberry Pi 4.
-
-- 🎯 26,917 thrust counts achieved (spec: 17,000–25,000)
-- ✅ 25/25 tests passed, 28/28 functional requirements met
-- 🔧 SBUS UART control, MCP23017-driven solenoid valve array, pigpio, systemd deployment
-- 🔗 [github.com/vedashah/FlowX](https://github.com/vedashah/FlowX)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### The short version
+
+I'm a recent Texas A&M Mechatronics Engineering grad who likes systems where the code, the circuit, and the CAD all have to agree with each other. My capstone was a cold-gas thruster drone built for lunar conditions. Before that it was VEX U robotics, a UR3e robotic arm doing automated liquid handling in a synthetic biology lab, and a facility inspection robot that used LIDAR and computer vision to hit 100% precision.
+
+Outside of engineering: I speedcube, 3D print on Bambu Lab printers, build animatronic eye mechanisms for fun, and I'm working through Assembly and MATLAB right now just to round things out.
+
+### FlowX, the project I'm proudest of
+
+A cold-gas thruster reconnaissance drone system for lunar environments, built as my senior capstone. Three subsystems: a gyroscopic 3-DOF test rig, a propeller drone, and a thruster drone, all running a custom Python flight stack on a Raspberry Pi 4.
+
+- 26,917 thrust counts against a spec window of 17,000 to 25,000
+- 25 out of 25 tests passed, all 28 functional requirements met
+- SBUS UART flight control, an MCP23017-driven solenoid valve array, pigpio, systemd for deployment
+- Code: [github.com/vedashah/FlowX](https://github.com/vedashah/FlowX)
+
+### What I've been building with
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38"/></a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="38" height="38"/></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="38" height="38"/></a>
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/dassaultsystemes/005386" alt="solidworks" width="38" height="38"/></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="38" height="38"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="38" height="38"/></a>
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ros/22314E" alt="ros" width="38" height="38"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38"/></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="38" height="38"/></a>
+</p>
+
+### Reach me
+
 <p align="left">
 <a href="https://linkedin.com/in/vedansh-shah-331028264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedansh-shah-331028264" height="30" width="40" /></a>
 </p>
 
-### 💻 Languages and Tools
-
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a>
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/dassaultsystemes/005386" alt="solidworks" width="40" height="40"/></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ros/22314E" alt="ros" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-</p>
+Email: **vedansh.shah@gmail.com**
 
 ---
 
