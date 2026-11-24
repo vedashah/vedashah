@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vedashahportfolio.netlify.app/flowx"><img src="flowx-drone.webp" width="720" alt="CAD model of the FlowX thruster drone coming together, flying on its gas jets, and coming apart"/></a>
+  <a href="https://vedashahportfolio.netlify.app/flowx"><img src="flowx-drone-centered.webp" width="720" alt="CAD model of the FlowX thruster drone coming together, flying on its gas jets, and coming apart"/></a>
   <br/>
   <a href="https://vedashahportfolio.netlify.app/flowx"><b>Fly this drone in your browser</b></a>
 </p>
